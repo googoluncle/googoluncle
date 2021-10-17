@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @googoluncle
 - 👀 I’m interested in php
-- 🌱 I’m currently learning php and pyhton
+- 🌱 I’m currently learning php and python
 
 <!---
 googoluncle/googoluncle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
